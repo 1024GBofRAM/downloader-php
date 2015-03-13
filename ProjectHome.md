@@ -1,1 +1,1 @@
-This PHP file will allow you to download files directly from webserver to your server(NOTE: This is not mine)
+This PHP file will allow you to download files directly from webserver to your server
